@@ -48,9 +48,7 @@ function multiPie() {
 
 		var nestedData = d3.nest()
 			.key(function(d) { return d.coverage; })
-			.entries(data);		
-
-		console.log(nestedData);
+			.entries(data);			
 
 		var divs = chartContainer.html("")
 			.selectAll(".pie-chart-wrap")		

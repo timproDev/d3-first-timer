@@ -34,8 +34,6 @@ function multiLine() {
 			&& d.coverage !== "Cyber Liability Insurance Renewal Rate";
 		});
 
-		console.log(data);
-
 		// [+] Parse data
 		data.forEach(function(d){
 			d.value = parseFloat(d.value);

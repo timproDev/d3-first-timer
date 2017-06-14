@@ -191,7 +191,6 @@ function barLineChart() {
 				
 				covSvg.append("path.cov-path")
 					.attr("d", function(d){
-						console.log("data",d);
 						return lineGen2(d.values);
 					});
 
