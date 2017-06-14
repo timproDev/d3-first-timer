@@ -1,0 +1,585 @@
+year,quarter,region,coverage,value
+2012,q1,global,Insurance Market Index,1
+2012,q1,global,Insurance Composite Renewal Rate,1.2%
+2012,q1,global,Casualty Insurance Renewal Rate,0%
+2012,q1,global,Property Insurance Renewal Rate,2.3%
+2012,q1,global,Financial and Professional Liability Insurance Renewal Rate,0.6%
+2012,q2,global,Insurance Market Index,1.004
+2012,q2,global,Insurance Composite Renewal Rate,1.4%
+2012,q2,global,Casualty Insurance Renewal Rate,0.8%
+2012,q2,global,Property Insurance Renewal Rate,2.4%
+2012,q2,global,Financial and Professional Liability Insurance Renewal Rate,0.4%
+2012,q3,global,Insurance Market Index,1.007
+2012,q3,global,Insurance Composite Renewal Rate,1.4%
+2012,q3,global,Casualty Insurance Renewal Rate,1.2%
+2012,q3,global,Property Insurance Renewal Rate,1.2%
+2012,q3,global,Financial and Professional Liability Insurance Renewal Rate,1.9%
+2012,q4,global,Insurance Market Index,1.01
+2012,q4,global,Insurance Composite Renewal Rate,1.2%
+2012,q4,global,Casualty Insurance Renewal Rate,1.4%
+2012,q4,global,Property Insurance Renewal Rate,0.5%
+2012,q4,global,Financial and Professional Liability Insurance Renewal Rate,2.2%
+2013,q1,global,Insurance Market Index,1.011
+2013,q1,global,Insurance Composite Renewal Rate,0.3%
+2013,q1,global,Casualty Insurance Renewal Rate,0.7%
+2013,q1,global,Property Insurance Renewal Rate,-0.2%
+2013,q1,global,Financial and Professional Liability Insurance Renewal Rate,0.8%
+2013,q2,global,Insurance Market Index,1.01
+2013,q2,global,Insurance Composite Renewal Rate,-0.4%
+2013,q2,global,Casualty Insurance Renewal Rate,0.2%
+2013,q2,global,Property Insurance Renewal Rate,-1.2%
+2013,q2,global,Financial and Professional Liability Insurance Renewal Rate,0.4%
+2013,q3,global,Insurance Market Index,1.008
+2013,q3,global,Insurance Composite Renewal Rate,-0.7%
+2013,q3,global,Casualty Insurance Renewal Rate,0.7%
+2013,q3,global,Property Insurance Renewal Rate,-2%
+2013,q3,global,Financial and Professional Liability Insurance Renewal Rate,-0.2%
+2013,q4,global,Insurance Market Index,1.005
+2013,q4,global,Insurance Composite Renewal Rate,-1%
+2013,q4,global,Casualty Insurance Renewal Rate,-0.2%
+2013,q4,global,Property Insurance Renewal Rate,-1.7%
+2013,q4,global,Financial and Professional Liability Insurance Renewal Rate,-0.8%
+2014,q1,global,Insurance Market Index,1.001
+2014,q1,global,Insurance Composite Renewal Rate,-1.6%
+2014,q1,global,Casualty Insurance Renewal Rate,-0.2%
+2014,q1,global,Property Insurance Renewal Rate,-3.5%
+2014,q1,global,Financial and Professional Liability Insurance Renewal Rate,0%
+2014,q2,global,Insurance Market Index,0.994
+2014,q2,global,Insurance Composite Renewal Rate,-2.7%
+2014,q2,global,Casualty Insurance Renewal Rate,-0.6%
+2014,q2,global,Property Insurance Renewal Rate,-4.6%
+2014,q2,global,Financial and Professional Liability Insurance Renewal Rate,-2.3%
+2014,q3,global,Insurance Market Index,0.988
+2014,q3,global,Insurance Composite Renewal Rate,-2.8%
+2014,q3,global,Casualty Insurance Renewal Rate,-1%
+2014,q3,global,Property Insurance Renewal Rate,-4.6%
+2014,q3,global,Financial and Professional Liability Insurance Renewal Rate,-1.9%
+2014,q4,global,Insurance Market Index,0.977
+2014,q4,global,Insurance Composite Renewal Rate,-4.2%
+2014,q4,global,Casualty Insurance Renewal Rate,-2.8%
+2014,q4,global,Property Insurance Renewal Rate,-6%
+2014,q4,global,Financial and Professional Liability Insurance Renewal Rate,-2.6%
+2015,q1,global,Insurance Market Index,0.967
+2015,q1,global,Insurance Composite Renewal Rate,-4.2%
+2015,q1,global,Casualty Insurance Renewal Rate,-2.3%
+2015,q1,global,Property Insurance Renewal Rate,-6.5%
+2015,q1,global,Financial and Professional Liability Insurance Renewal Rate,-2.6%
+2015,q2,global,Insurance Market Index,0.956
+2015,q2,global,Insurance Composite Renewal Rate,-4.4%
+2015,q2,global,Casualty Insurance Renewal Rate,-1.9%
+2015,q2,global,Property Insurance Renewal Rate,-6.5%
+2015,q2,global,Financial and Professional Liability Insurance Renewal Rate,-4.5%
+2015,q3,global,Insurance Market Index,0.944
+2015,q3,global,Insurance Composite Renewal Rate,-4.8%
+2015,q3,global,Casualty Insurance Renewal Rate,-2.5%
+2015,q3,global,Property Insurance Renewal Rate,-7.1%
+2015,q3,global,Financial and Professional Liability Insurance Renewal Rate,-4.6%
+2015,q4,global,Insurance Market Index,0.932
+2015,q4,global,Insurance Composite Renewal Rate,-5%
+2015,q4,global,Casualty Insurance Renewal Rate,-3.4%
+2015,q4,global,Property Insurance Renewal Rate,-7.6%
+2015,q4,global,Financial and Professional Liability Insurance Renewal Rate,-2.6%
+2016,q1,global,Insurance Market Index,0.923
+2016,q1,global,Insurance Composite Renewal Rate,-3.8%
+2016,q1,global,Casualty Insurance Renewal Rate,-2.4%
+2016,q1,global,Property Insurance Renewal Rate,-5.6%
+2016,q1,global,Financial and Professional Liability Insurance Renewal Rate,-2.6%
+2016,q2,global,Insurance Market Index,0.915
+2016,q2,global,Insurance Composite Renewal Rate,-3.6%
+2016,q2,global,Casualty Insurance Renewal Rate,-2.9%
+2016,q2,global,Property Insurance Renewal Rate,-4.5%
+2016,q2,global,Financial and Professional Liability Insurance Renewal Rate,-3.1%
+2016,q3,global,Insurance Market Index,0.908
+2016,q3,global,Insurance Composite Renewal Rate,-3.2%
+2016,q3,global,Casualty Insurance Renewal Rate,-2.4%
+2016,q3,global,Property Insurance Renewal Rate,-3.9%
+2016,q3,global,Financial and Professional Liability Insurance Renewal Rate,-2.9%
+2016,q4,global,Insurance Market Index,0.901
+2016,q4,global,Insurance Composite Renewal Rate,-3.1%
+2016,q4,global,Casualty Insurance Renewal Rate,-1.9%
+2016,q4,global,Property Insurance Renewal Rate,-4.2%
+2016,q4,global,Financial and Professional Liability Insurance Renewal Rate,-3%
+2017,q1,global,Insurance Market Index,0.896
+2017,q1,global,Insurance Composite Renewal Rate,-2.1%
+2017,q1,global,Casualty Insurance Renewal Rate,-0.2%
+2017,q1,global,Property Insurance Renewal Rate,-3.6%
+2017,q1,global,Financial and Professional Liability Insurance Renewal Rate,-2.6%
+2012,q1,us,Insurance Composite Renewal Rate,2%
+2012,q1,us,Casualty Insurance Renewal Rate,1.6%
+2012,q1,us,Property Insurance Renewal Rate,4%
+2012,q1,us,Financial and Professional Liability Insurance Renewal Rate,-0.2%
+2012,q1,us,Cyber Liability Insurance Renewal Rate,6.8%
+2012,q2,us,Insurance Composite Renewal Rate,1.5%
+2012,q2,us,Casualty Insurance Renewal Rate,0.6%
+2012,q2,us,Property Insurance Renewal Rate,3.1%
+2012,q2,us,Financial and Professional Liability Insurance Renewal Rate,1%
+2012,q2,us,Cyber Liability Insurance Renewal Rate,-2.4%
+2012,q3,us,Insurance Composite Renewal Rate,2.1%
+2012,q3,us,Casualty Insurance Renewal Rate,1.9%
+2012,q3,us,Property Insurance Renewal Rate,2.8%
+2012,q3,us,Financial and Professional Liability Insurance Renewal Rate,1.7%
+2012,q3,us,Cyber Liability Insurance Renewal Rate,-0.3%
+2012,q4,us,Insurance Composite Renewal Rate,2.1%
+2012,q4,us,Casualty Insurance Renewal Rate,2.6%
+2012,q4,us,Property Insurance Renewal Rate,1.4%
+2012,q4,us,Financial and Professional Liability Insurance Renewal Rate,2.1%
+2012,q4,us,Cyber Liability Insurance Renewal Rate,0.1%
+2013,q1,us,Insurance Composite Renewal Rate,2.2%
+2013,q1,us,Casualty Insurance Renewal Rate,1.8%
+2013,q1,us,Property Insurance Renewal Rate,2.5%
+2013,q1,us,Financial and Professional Liability Insurance Renewal Rate,2.7%
+2013,q1,us,Cyber Liability Insurance Renewal Rate,5.4%
+2013,q2,us,Insurance Composite Renewal Rate,1.6%
+2013,q2,us,Casualty Insurance Renewal Rate,2.1%
+2013,q2,us,Property Insurance Renewal Rate,0.5%
+2013,q2,us,Financial and Professional Liability Insurance Renewal Rate,2.5%
+2013,q2,us,Cyber Liability Insurance Renewal Rate,0.4%
+2013,q3,us,Insurance Composite Renewal Rate,1.9%
+2013,q3,us,Casualty Insurance Renewal Rate,2.5%
+2013,q3,us,Property Insurance Renewal Rate,1%
+2013,q3,us,Financial and Professional Liability Insurance Renewal Rate,2.2%
+2013,q3,us,Cyber Liability Insurance Renewal Rate,3.3%
+2013,q4,us,Insurance Composite Renewal Rate,0.6%
+2013,q4,us,Casualty Insurance Renewal Rate,0.5%
+2013,q4,us,Property Insurance Renewal Rate,0.2%
+2013,q4,us,Financial and Professional Liability Insurance Renewal Rate,1.7%
+2013,q4,us,Cyber Liability Insurance Renewal Rate,0.2%
+2014,q1,us,Insurance Composite Renewal Rate,-0.2%
+2014,q1,us,Casualty Insurance Renewal Rate,0.9%
+2014,q1,us,Property Insurance Renewal Rate,-2.5%
+2014,q1,us,Financial and Professional Liability Insurance Renewal Rate,1%
+2014,q1,us,Cyber Liability Insurance Renewal Rate,4.1%
+2014,q2,us,Insurance Composite Renewal Rate,-0.8%
+2014,q2,us,Casualty Insurance Renewal Rate,0.6%
+2014,q2,us,Property Insurance Renewal Rate,-2.1%
+2014,q2,us,Financial and Professional Liability Insurance Renewal Rate,-1.5%
+2014,q2,us,Cyber Liability Insurance Renewal Rate,-0.8%
+2014,q3,us,Insurance Composite Renewal Rate,-0.1%
+2014,q3,us,Casualty Insurance Renewal Rate,1%
+2014,q3,us,Property Insurance Renewal Rate,-2%
+2014,q3,us,Financial and Professional Liability Insurance Renewal Rate,0.8%
+2014,q3,us,Cyber Liability Insurance Renewal Rate,4.8%
+2014,q4,us,Insurance Composite Renewal Rate,-2.2%
+2014,q4,us,Casualty Insurance Renewal Rate,-1.6%
+2014,q4,us,Property Insurance Renewal Rate,-3.8%
+2014,q4,us,Financial and Professional Liability Insurance Renewal Rate,-0.9%
+2014,q4,us,Cyber Liability Insurance Renewal Rate,12.8%
+2015,q1,us,Insurance Composite Renewal Rate,-2%
+2015,q1,us,Casualty Insurance Renewal Rate,-1.8%
+2015,q1,us,Property Insurance Renewal Rate,-3.5%
+2015,q1,us,Financial and Professional Liability Insurance Renewal Rate,-0.1%
+2015,q1,us,Cyber Liability Insurance Renewal Rate,19.1%
+2015,q2,us,Insurance Composite Renewal Rate,-2.2%
+2015,q2,us,Casualty Insurance Renewal Rate,-1.1%
+2015,q2,us,Property Insurance Renewal Rate,-4.8%
+2015,q2,us,Financial and Professional Liability Insurance Renewal Rate,-0.7%
+2015,q2,us,Cyber Liability Insurance Renewal Rate,20%
+2015,q3,us,Insurance Composite Renewal Rate,-2.8%
+2015,q3,us,Casualty Insurance Renewal Rate,-2.1%
+2015,q3,us,Property Insurance Renewal Rate,-6.2%
+2015,q3,us,Financial and Professional Liability Insurance Renewal Rate,0.4%
+2015,q3,us,Cyber Liability Insurance Renewal Rate,18.7%
+2015,q4,us,Insurance Composite Renewal Rate,-3.6%
+2015,q4,us,Casualty Insurance Renewal Rate,-3.4%
+2015,q4,us,Property Insurance Renewal Rate,-5.7%
+2015,q4,us,Financial and Professional Liability Insurance Renewal Rate,-1.1%
+2015,q4,us,Cyber Liability Insurance Renewal Rate,16.9%
+2016,q1,us,Insurance Composite Renewal Rate,-2.6%
+2016,q1,us,Casualty Insurance Renewal Rate,-2.6%
+2016,q1,us,Property Insurance Renewal Rate,-4%
+2016,q1,us,Financial and Professional Liability Insurance Renewal Rate,-0.8%
+2016,q1,us,Cyber Liability Insurance Renewal Rate,12%
+2016,q2,us,Insurance Composite Renewal Rate,-3.9%
+2016,q2,us,Casualty Insurance Renewal Rate,-3.4%
+2016,q2,us,Property Insurance Renewal Rate,-5.8%
+2016,q2,us,Financial and Professional Liability Insurance Renewal Rate,-2.4%
+2016,q2,us,Cyber Liability Insurance Renewal Rate,6.9%
+2016,q3,us,Insurance Composite Renewal Rate,-3.1%
+2016,q3,us,Casualty Insurance Renewal Rate,-3.1%
+2016,q3,us,Property Insurance Renewal Rate,-3.8%
+2016,q3,us,Financial and Professional Liability Insurance Renewal Rate,-2.2%
+2016,q3,us,Cyber Liability Insurance Renewal Rate,5.2%
+2016,q4,us,Insurance Composite Renewal Rate,-3%
+2016,q4,us,Casualty Insurance Renewal Rate,-2.1%
+2016,q4,us,Property Insurance Renewal Rate,-4.8%
+2016,q4,us,Financial and Professional Liability Insurance Renewal Rate,-2.5%
+2016,q4,us,Cyber Liability Insurance Renewal Rate,1.4%
+2017,q1,us,Insurance Composite Renewal Rate,-1.2%
+2017,q1,us,Casualty Insurance Renewal Rate,1.1%
+2017,q1,us,Property Insurance Renewal Rate,-3.7%
+2017,q1,us,Financial and Professional Liability Insurance Renewal Rate,-2.5%
+2017,q1,us,Cyber Liability Insurance Renewal Rate,-1.7%
+2012,q1,uk,Insurance Composite Renewal Rate,1.6%
+2012,q1,uk,Casualty Insurance Renewal Rate,0%
+2012,q1,uk,Property Insurance Renewal Rate,2.5%
+2012,q1,uk,Financial and Professional Liability Insurance Renewal Rate,1.7%
+2012,q2,uk,Insurance Composite Renewal Rate,1.4%
+2012,q2,uk,Casualty Insurance Renewal Rate,1.6%
+2012,q2,uk,Property Insurance Renewal Rate,2.5%
+2012,q2,uk,Financial and Professional Liability Insurance Renewal Rate,0%
+2012,q3,uk,Insurance Composite Renewal Rate,2%
+2012,q3,uk,Casualty Insurance Renewal Rate,1.6%
+2012,q3,uk,Property Insurance Renewal Rate,2.5%
+2012,q3,uk,Financial and Professional Liability Insurance Renewal Rate,1.7%
+2012,q4,uk,Insurance Composite Renewal Rate,1.6%
+2012,q4,uk,Casualty Insurance Renewal Rate,1.6%
+2012,q4,uk,Property Insurance Renewal Rate,0%
+2012,q4,uk,Financial and Professional Liability Insurance Renewal Rate,3.3%
+2013,q1,uk,Insurance Composite Renewal Rate,-1%
+2013,q1,uk,Casualty Insurance Renewal Rate,-1.8%
+2013,q1,uk,Property Insurance Renewal Rate,0%
+2013,q1,uk,Financial and Professional Liability Insurance Renewal Rate,-1.7%
+2013,q2,uk,Insurance Composite Renewal Rate,-1.7%
+2013,q2,uk,Casualty Insurance Renewal Rate,-5%
+2013,q2,uk,Property Insurance Renewal Rate,0%
+2013,q2,uk,Financial and Professional Liability Insurance Renewal Rate,-1.7%
+2013,q3,uk,Insurance Composite Renewal Rate,-1.6%
+2013,q3,uk,Casualty Insurance Renewal Rate,-1.8%
+2013,q3,uk,Property Insurance Renewal Rate,0%
+2013,q3,uk,Financial and Professional Liability Insurance Renewal Rate,-3.3%
+2013,q4,uk,Insurance Composite Renewal Rate,-0.9%
+2013,q4,uk,Casualty Insurance Renewal Rate,1.6%
+2013,q4,uk,Property Insurance Renewal Rate,0%
+2013,q4,uk,Financial and Professional Liability Insurance Renewal Rate,-3.3%
+2014,q1,uk,Insurance Composite Renewal Rate,-2.2%
+2014,q1,uk,Casualty Insurance Renewal Rate,-0.6%
+2014,q1,uk,Property Insurance Renewal Rate,-5%
+2014,q1,uk,Financial and Professional Liability Insurance Renewal Rate,0%
+2014,q2,uk,Insurance Composite Renewal Rate,-2.5%
+2014,q2,uk,Casualty Insurance Renewal Rate,3.8%
+2014,q2,uk,Property Insurance Renewal Rate,-5%
+2014,q2,uk,Financial and Professional Liability Insurance Renewal Rate,-3.3%
+2014,q3,uk,Insurance Composite Renewal Rate,-4.7%
+2014,q3,uk,Casualty Insurance Renewal Rate,-3.4%
+2014,q3,uk,Property Insurance Renewal Rate,-5%
+2014,q3,uk,Financial and Professional Liability Insurance Renewal Rate,-5%
+2014,q4,uk,Insurance Composite Renewal Rate,-5%
+2014,q4,uk,Casualty Insurance Renewal Rate,-5%
+2014,q4,uk,Property Insurance Renewal Rate,-5%
+2014,q4,uk,Financial and Professional Liability Insurance Renewal Rate,-5%
+2015,q1,uk,Insurance Composite Renewal Rate,-5%
+2015,q1,uk,Casualty Insurance Renewal Rate,-5%
+2015,q1,uk,Property Insurance Renewal Rate,-5%
+2015,q1,uk,Financial and Professional Liability Insurance Renewal Rate,-5%
+2015,q2,uk,Insurance Composite Renewal Rate,-7.2%
+2015,q2,uk,Casualty Insurance Renewal Rate,-3.7%
+2015,q2,uk,Property Insurance Renewal Rate,-5%
+2015,q2,uk,Financial and Professional Liability Insurance Renewal Rate,-11.7%
+2015,q3,uk,Insurance Composite Renewal Rate,-8.5%
+2015,q3,uk,Casualty Insurance Renewal Rate,-3.7%
+2015,q3,uk,Property Insurance Renewal Rate,-5%
+2015,q3,uk,Financial and Professional Liability Insurance Renewal Rate,-15%
+2015,q4,uk,Insurance Composite Renewal Rate,-5%
+2015,q4,uk,Casualty Insurance Renewal Rate,-5%
+2015,q4,uk,Property Insurance Renewal Rate,-5%
+2015,q4,uk,Financial and Professional Liability Insurance Renewal Rate,-5%
+2016,q1,uk,Insurance Composite Renewal Rate,-5%
+2016,q1,uk,Casualty Insurance Renewal Rate,-5%
+2016,q1,uk,Property Insurance Renewal Rate,-5%
+2016,q1,uk,Financial and Professional Liability Insurance Renewal Rate,-5%
+2016,q2,uk,Insurance Composite Renewal Rate,-4.8%
+2016,q2,uk,Casualty Insurance Renewal Rate,-4.2%
+2016,q2,uk,Property Insurance Renewal Rate,-5%
+2016,q2,uk,Financial and Professional Liability Insurance Renewal Rate,-5%
+2016,q3,uk,Insurance Composite Renewal Rate,-4.8%
+2016,q3,uk,Casualty Insurance Renewal Rate,-4.2%
+2016,q3,uk,Property Insurance Renewal Rate,-5%
+2016,q3,uk,Financial and Professional Liability Insurance Renewal Rate,-5%
+2016,q4,uk,Insurance Composite Renewal Rate,-4.8%
+2016,q4,uk,Casualty Insurance Renewal Rate,-4.2%
+2016,q4,uk,Property Insurance Renewal Rate,-5%
+2016,q4,uk,Financial and Professional Liability Insurance Renewal Rate,-5%
+2017,q1,uk,Insurance Composite Renewal Rate,-4.8%
+2017,q1,uk,Casualty Insurance Renewal Rate,-4.2%
+2017,q1,uk,Property Insurance Renewal Rate,-5%
+2017,q1,uk,Financial and Professional Liability Insurance Renewal Rate,-5%
+2012,q1,eu,Insurance Composite Renewal Rate,-0.9%
+2012,q1,eu,Casualty Insurance Renewal Rate,-1%
+2012,q1,eu,Property Insurance Renewal Rate,-1.1%
+2012,q1,eu,Financial and Professional Liability Insurance Renewal Rate,-0.3%
+2012,q2,eu,Insurance Composite Renewal Rate,0.7%
+2012,q2,eu,Casualty Insurance Renewal Rate,2.2%
+2012,q2,eu,Property Insurance Renewal Rate,0.8%
+2012,q2,eu,Financial and Professional Liability Insurance Renewal Rate,-3.4%
+2012,q3,eu,Insurance Composite Renewal Rate,-1.1%
+2012,q3,eu,Casualty Insurance Renewal Rate,0.2%
+2012,q3,eu,Property Insurance Renewal Rate,-2.7%
+2012,q3,eu,Financial and Professional Liability Insurance Renewal Rate,1.1%
+2012,q4,eu,Insurance Composite Renewal Rate,0.3%
+2012,q4,eu,Casualty Insurance Renewal Rate,-0.9%
+2012,q4,eu,Property Insurance Renewal Rate,2%
+2012,q4,eu,Financial and Professional Liability Insurance Renewal Rate,-2.3%
+2013,q1,eu,Insurance Composite Renewal Rate,0.3%
+2013,q1,eu,Casualty Insurance Renewal Rate,1.7%
+2013,q1,eu,Property Insurance Renewal Rate,-1%
+2013,q1,eu,Financial and Professional Liability Insurance Renewal Rate,1.1%
+2013,q2,eu,Insurance Composite Renewal Rate,-1.3%
+2013,q2,eu,Casualty Insurance Renewal Rate,-1.3%
+2013,q2,eu,Property Insurance Renewal Rate,-2.2%
+2013,q2,eu,Financial and Professional Liability Insurance Renewal Rate,-0.2%
+2013,q3,eu,Insurance Composite Renewal Rate,-2.2%
+2013,q3,eu,Casualty Insurance Renewal Rate,-3.4%
+2013,q3,eu,Property Insurance Renewal Rate,-2.8%
+2013,q3,eu,Financial and Professional Liability Insurance Renewal Rate,-0.3%
+2013,q4,eu,Insurance Composite Renewal Rate,-1.2%
+2013,q4,eu,Casualty Insurance Renewal Rate,-2%
+2013,q4,eu,Property Insurance Renewal Rate,-1.3%
+2013,q4,eu,Financial and Professional Liability Insurance Renewal Rate,-1.8%
+2014,q1,eu,Insurance Composite Renewal Rate,-1%
+2014,q1,eu,Casualty Insurance Renewal Rate,-1.1%
+2014,q1,eu,Property Insurance Renewal Rate,-2.1%
+2014,q1,eu,Financial and Professional Liability Insurance Renewal Rate,-0.9%
+2014,q2,eu,Insurance Composite Renewal Rate,-5.9%
+2014,q2,eu,Casualty Insurance Renewal Rate,-3.3%
+2014,q2,eu,Property Insurance Renewal Rate,-8.1%
+2014,q2,eu,Financial and Professional Liability Insurance Renewal Rate,-2.6%
+2014,q3,eu,Insurance Composite Renewal Rate,-5.1%
+2014,q3,eu,Casualty Insurance Renewal Rate,-3.4%
+2014,q3,eu,Property Insurance Renewal Rate,-7.6%
+2014,q3,eu,Financial and Professional Liability Insurance Renewal Rate,-2.1%
+2014,q4,eu,Insurance Composite Renewal Rate,-7.4%
+2014,q4,eu,Casualty Insurance Renewal Rate,-4.6%
+2014,q4,eu,Property Insurance Renewal Rate,-10.7%
+2014,q4,eu,Financial and Professional Liability Insurance Renewal Rate,-2.2%
+2015,q1,eu,Insurance Composite Renewal Rate,-6.7%
+2015,q1,eu,Casualty Insurance Renewal Rate,-3%
+2015,q1,eu,Property Insurance Renewal Rate,-10.3%
+2015,q1,eu,Financial and Professional Liability Insurance Renewal Rate,-3.3%
+2015,q2,eu,Insurance Composite Renewal Rate,-5.2%
+2015,q2,eu,Casualty Insurance Renewal Rate,-2.1%
+2015,q2,eu,Property Insurance Renewal Rate,-7.8%
+2015,q2,eu,Financial and Professional Liability Insurance Renewal Rate,-5.1%
+2015,q3,eu,Insurance Composite Renewal Rate,-4.5%
+2015,q3,eu,Casualty Insurance Renewal Rate,-2.2%
+2015,q3,eu,Property Insurance Renewal Rate,-6.9%
+2015,q3,eu,Financial and Professional Liability Insurance Renewal Rate,-3%
+2015,q4,eu,Insurance Composite Renewal Rate,-5.1%
+2015,q4,eu,Casualty Insurance Renewal Rate,-2.2%
+2015,q4,eu,Property Insurance Renewal Rate,-8.2%
+2015,q4,eu,Financial and Professional Liability Insurance Renewal Rate,-3.2%
+2016,q1,eu,Insurance Composite Renewal Rate,-4%
+2016,q1,eu,Casualty Insurance Renewal Rate,2.9%
+2016,q1,eu,Property Insurance Renewal Rate,-9.1%
+2016,q1,eu,Financial and Professional Liability Insurance Renewal Rate,-4.7%
+2016,q2,eu,Insurance Composite Renewal Rate,-2.6%
+2016,q2,eu,Casualty Insurance Renewal Rate,-0.2%
+2016,q2,eu,Property Insurance Renewal Rate,-4.5%
+2016,q2,eu,Financial and Professional Liability Insurance Renewal Rate,-2.5%
+2016,q3,eu,Insurance Composite Renewal Rate,-3%
+2016,q3,eu,Casualty Insurance Renewal Rate,0%
+2016,q3,eu,Property Insurance Renewal Rate,-5.5%
+2016,q3,eu,Financial and Professional Liability Insurance Renewal Rate,-2.8%
+2016,q4,eu,Insurance Composite Renewal Rate,-4.2%
+2016,q4,eu,Casualty Insurance Renewal Rate,-3.2%
+2016,q4,eu,Property Insurance Renewal Rate,-5.6%
+2016,q4,eu,Financial and Professional Liability Insurance Renewal Rate,-2.9%
+2017,q1,eu,Insurance Composite Renewal Rate,-4.3%
+2017,q1,eu,Casualty Insurance Renewal Rate,-4%
+2017,q1,eu,Property Insurance Renewal Rate,-5.3%
+2017,q1,eu,Financial and Professional Liability Insurance Renewal Rate,-2.1%
+2012,q1,lac,Casualty Insurance Renewal Rate,-1.2%
+2012,q1,lac,Property Insurance Renewal Rate,-5.1%
+2012,q1,lac,Financial and Professional Liability Insurance Renewal Rate,0.9%
+2012,q2,lac,Insurance Composite Renewal Rate,-8%
+2012,q2,lac,Casualty Insurance Renewal Rate,-3.1%
+2012,q2,lac,Property Insurance Renewal Rate,-3.7%
+2012,q2,lac,Financial and Professional Liability Insurance Renewal Rate,-2.6%
+2012,q3,lac,Insurance Composite Renewal Rate,-7.5%
+2012,q3,lac,Casualty Insurance Renewal Rate,-4.7%
+2012,q3,lac,Property Insurance Renewal Rate,-1.9%
+2012,q3,lac,Financial and Professional Liability Insurance Renewal Rate,-5.9%
+2012,q4,lac,Insurance Composite Renewal Rate,-5.3%
+2012,q4,lac,Casualty Insurance Renewal Rate,-2.3%
+2012,q4,lac,Property Insurance Renewal Rate,-2.4%
+2012,q4,lac,Financial and Professional Liability Insurance Renewal Rate,-2.5%
+2013,q1,lac,Insurance Composite Renewal Rate,0.8%
+2013,q1,lac,Casualty Insurance Renewal Rate,-1.9%
+2013,q1,lac,Property Insurance Renewal Rate,0.4%
+2013,q1,lac,Financial and Professional Liability Insurance Renewal Rate,-2.9%
+2013,q2,lac,Insurance Composite Renewal Rate,-0.1%
+2013,q2,lac,Casualty Insurance Renewal Rate,-3%
+2013,q2,lac,Property Insurance Renewal Rate,-1.5%
+2013,q2,lac,Financial and Professional Liability Insurance Renewal Rate,-3.9%
+2013,q3,lac,Insurance Composite Renewal Rate,2.8%
+2013,q3,lac,Casualty Insurance Renewal Rate,-3%
+2013,q3,lac,Property Insurance Renewal Rate,-2.2%
+2013,q3,lac,Financial and Professional Liability Insurance Renewal Rate,-3.9%
+2013,q4,lac,Insurance Composite Renewal Rate,0.6%
+2013,q4,lac,Casualty Insurance Renewal Rate,-6.4%
+2013,q4,lac,Property Insurance Renewal Rate,-0.4%
+2013,q4,lac,Financial and Professional Liability Insurance Renewal Rate,-8.9%
+2014,q1,lac,Insurance Composite Renewal Rate,0.1%
+2014,q1,lac,Casualty Insurance Renewal Rate,-5.4%
+2014,q1,lac,Property Insurance Renewal Rate,-0.3%
+2014,q1,lac,Financial and Professional Liability Insurance Renewal Rate,-7.6%
+2014,q2,lac,Insurance Composite Renewal Rate,-2.8%
+2014,q2,lac,Casualty Insurance Renewal Rate,-6.8%
+2014,q2,lac,Property Insurance Renewal Rate,-2%
+2014,q2,lac,Financial and Professional Liability Insurance Renewal Rate,-8.9%
+2014,q3,lac,Insurance Composite Renewal Rate,-0.5%
+2014,q3,lac,Casualty Insurance Renewal Rate,-6.2%
+2014,q3,lac,Property Insurance Renewal Rate,-2.1%
+2014,q3,lac,Financial and Professional Liability Insurance Renewal Rate,-8.1%
+2014,q4,lac,Insurance Composite Renewal Rate,-1.3%
+2014,q4,lac,Casualty Insurance Renewal Rate,-6.4%
+2014,q4,lac,Property Insurance Renewal Rate,-3.6%
+2014,q4,lac,Financial and Professional Liability Insurance Renewal Rate,-8.1%
+2015,q1,lac,Insurance Composite Renewal Rate,1.4%
+2015,q1,lac,Casualty Insurance Renewal Rate,-2.4%
+2015,q1,lac,Property Insurance Renewal Rate,-1.6%
+2015,q1,lac,Financial and Professional Liability Insurance Renewal Rate,-2.9%
+2015,q2,lac,Insurance Composite Renewal Rate,-0.1%
+2015,q2,lac,Casualty Insurance Renewal Rate,-3.9%
+2015,q2,lac,Property Insurance Renewal Rate,-1.9%
+2015,q2,lac,Financial and Professional Liability Insurance Renewal Rate,-4.9%
+2015,q3,lac,Insurance Composite Renewal Rate,-2.2%
+2015,q3,lac,Casualty Insurance Renewal Rate,-3.4%
+2015,q3,lac,Property Insurance Renewal Rate,-2.3%
+2015,q3,lac,Financial and Professional Liability Insurance Renewal Rate,-4.4%
+2015,q4,lac,Insurance Composite Renewal Rate,1.9%
+2015,q4,lac,Casualty Insurance Renewal Rate,-4.5%
+2015,q4,lac,Property Insurance Renewal Rate,-2.9%
+2015,q4,lac,Financial and Professional Liability Insurance Renewal Rate,-5.7%
+2016,q1,lac,Insurance Composite Renewal Rate,0.4%
+2016,q1,lac,Casualty Insurance Renewal Rate,-5.5%
+2016,q1,lac,Property Insurance Renewal Rate,-2.4%
+2016,q1,lac,Financial and Professional Liability Insurance Renewal Rate,-7.4%
+2016,q2,lac,Insurance Composite Renewal Rate,-0.4%
+2016,q2,lac,Casualty Insurance Renewal Rate,-2.9%
+2016,q2,lac,Property Insurance Renewal Rate,-0.8%
+2016,q2,lac,Financial and Professional Liability Insurance Renewal Rate,-4.2%
+2016,q3,lac,Insurance Composite Renewal Rate,-0.3%
+2016,q3,lac,Casualty Insurance Renewal Rate,-3.5%
+2016,q3,lac,Property Insurance Renewal Rate,0.9%
+2016,q3,lac,Financial and Professional Liability Insurance Renewal Rate,-5.9%
+2016,q4,lac,Insurance Composite Renewal Rate,-0.4%
+2016,q4,lac,Casualty Insurance Renewal Rate,-0.5%
+2016,q4,lac,Property Insurance Renewal Rate,6.6%
+2016,q4,lac,Financial and Professional Liability Insurance Renewal Rate,-4.2%
+2017,q1,lac,Insurance Composite Renewal Rate,2.1%
+2017,q1,lac,Casualty Insurance Renewal Rate,-2.3%
+2017,q1,lac,Property Insurance Renewal Rate,3.3%
+2017,q1,lac,Financial and Professional Liability Insurance Renewal Rate,-5%
+2012,q1,apac,Casualty Insurance Renewal Rate,5.4%
+2012,q1,apac,Property Insurance Renewal Rate,0%
+2012,q1,apac,Financial and Professional Liability Insurance Renewal Rate,7.2%
+2012,q2,apac,Insurance Composite Renewal Rate,7.5%
+2012,q2,apac,Casualty Insurance Renewal Rate,6.5%
+2012,q2,apac,Property Insurance Renewal Rate,2.1%
+2012,q2,apac,Financial and Professional Liability Insurance Renewal Rate,9.7%
+2012,q3,apac,Insurance Composite Renewal Rate,2.3%
+2012,q3,apac,Casualty Insurance Renewal Rate,5%
+2012,q3,apac,Property Insurance Renewal Rate,1.2%
+2012,q3,apac,Financial and Professional Liability Insurance Renewal Rate,6.4%
+2012,q4,apac,Insurance Composite Renewal Rate,6.1%
+2012,q4,apac,Casualty Insurance Renewal Rate,1.9%
+2012,q4,apac,Property Insurance Renewal Rate,0.1%
+2012,q4,apac,Financial and Professional Liability Insurance Renewal Rate,1.5%
+2013,q1,apac,Insurance Composite Renewal Rate,5.7%
+2013,q1,apac,Casualty Insurance Renewal Rate,1%
+2013,q1,apac,Property Insurance Renewal Rate,0.2%
+2013,q1,apac,Financial and Professional Liability Insurance Renewal Rate,1.3%
+2013,q2,apac,Insurance Composite Renewal Rate,1%
+2013,q2,apac,Casualty Insurance Renewal Rate,-2.4%
+2013,q2,apac,Property Insurance Renewal Rate,0.3%
+2013,q2,apac,Financial and Professional Liability Insurance Renewal Rate,-3.6%
+2013,q3,apac,Insurance Composite Renewal Rate,-1.9%
+2013,q3,apac,Casualty Insurance Renewal Rate,-4.9%
+2013,q3,apac,Property Insurance Renewal Rate,0.7%
+2013,q3,apac,Financial and Professional Liability Insurance Renewal Rate,-8.6%
+2013,q4,apac,Insurance Composite Renewal Rate,-0.4%
+2013,q4,apac,Casualty Insurance Renewal Rate,-3.3%
+2013,q4,apac,Property Insurance Renewal Rate,-0.8%
+2013,q4,apac,Financial and Professional Liability Insurance Renewal Rate,-4.5%
+2014,q1,apac,Insurance Composite Renewal Rate,-1.7%
+2014,q1,apac,Casualty Insurance Renewal Rate,-2.7%
+2014,q1,apac,Property Insurance Renewal Rate,-2.1%
+2014,q1,apac,Financial and Professional Liability Insurance Renewal Rate,-3.2%
+2014,q2,apac,Insurance Composite Renewal Rate,-2.5%
+2014,q2,apac,Casualty Insurance Renewal Rate,-4.1%
+2014,q2,apac,Property Insurance Renewal Rate,-2.9%
+2014,q2,apac,Financial and Professional Liability Insurance Renewal Rate,-4.8%
+2014,q3,apac,Insurance Composite Renewal Rate,-3.3%
+2014,q3,apac,Casualty Insurance Renewal Rate,-4.4%
+2014,q3,apac,Property Insurance Renewal Rate,-1.9%
+2014,q3,apac,Financial and Professional Liability Insurance Renewal Rate,-5.6%
+2014,q4,apac,Insurance Composite Renewal Rate,-3.4%
+2014,q4,apac,Casualty Insurance Renewal Rate,-5.5%
+2014,q4,apac,Property Insurance Renewal Rate,-2.3%
+2014,q4,apac,Financial and Professional Liability Insurance Renewal Rate,-7.6%
+2015,q1,apac,Insurance Composite Renewal Rate,-3.3%
+2015,q1,apac,Casualty Insurance Renewal Rate,-7.4%
+2015,q1,apac,Property Insurance Renewal Rate,-0.3%
+2015,q1,apac,Financial and Professional Liability Insurance Renewal Rate,-10.8%
+2015,q2,apac,Insurance Composite Renewal Rate,-6.9%
+2015,q2,apac,Casualty Insurance Renewal Rate,-9.8%
+2015,q2,apac,Property Insurance Renewal Rate,-4.6%
+2015,q2,apac,Financial and Professional Liability Insurance Renewal Rate,-13.1%
+2015,q3,apac,Insurance Composite Renewal Rate,-5.4%
+2015,q3,apac,Casualty Insurance Renewal Rate,-8.3%
+2015,q3,apac,Property Insurance Renewal Rate,-3.8%
+2015,q3,apac,Financial and Professional Liability Insurance Renewal Rate,-11.3%
+2015,q4,apac,Insurance Composite Renewal Rate,-3.8%
+2015,q4,apac,Casualty Insurance Renewal Rate,-8.3%
+2015,q4,apac,Property Insurance Renewal Rate,-3.8%
+2015,q4,apac,Financial and Professional Liability Insurance Renewal Rate,-11.4%
+2016,q1,apac,Insurance Composite Renewal Rate,-3.7%
+2016,q1,apac,Casualty Insurance Renewal Rate,-5%
+2016,q1,apac,Property Insurance Renewal Rate,-4.1%
+2016,q1,apac,Financial and Professional Liability Insurance Renewal Rate,-5.6%
+2016,q2,apac,Insurance Composite Renewal Rate,-3.8%
+2016,q2,apac,Casualty Insurance Renewal Rate,-3.4%
+2016,q2,apac,Property Insurance Renewal Rate,-2.9%
+2016,q2,apac,Financial and Professional Liability Insurance Renewal Rate,-3.8%
+2016,q3,apac,Insurance Composite Renewal Rate,-2.8%
+2016,q3,apac,Casualty Insurance Renewal Rate,-2.9%
+2016,q3,apac,Property Insurance Renewal Rate,-3%
+2016,q3,apac,Financial and Professional Liability Insurance Renewal Rate,-3.7%
+2016,q4,apac,Insurance Composite Renewal Rate,-0.1%
+2016,q4,apac,Casualty Insurance Renewal Rate,-2.5%
+2016,q4,apac,Property Insurance Renewal Rate,-2.9%
+2016,q4,apac,Financial and Professional Liability Insurance Renewal Rate,-3%
+2017,q1,apac,Insurance Composite Renewal Rate,-0.1%
+2017,q1,apac,Casualty Insurance Renewal Rate,-0.4%
+2017,q1,apac,Property Insurance Renewal Rate,-1.7%
+2017,q1,apac,Financial and Professional Liability Insurance Renewal Rate,-0.9%
+2012,q1,misc,Surplus,$583.00
+2012,q2,misc,Surplus,$581.00
+2012,q3,misc,Surplus,$592.00
+2012,q4,misc,Surplus,$602.00
+2013,q1,misc,Surplus,$617.00
+2013,q2,misc,Surplus,$622.00
+2013,q3,misc,Surplus,$633.00
+2013,q4,misc,Surplus,$666.00
+2014,q1,misc,Surplus,$669.00
+2014,q2,misc,Surplus,$681.00
+2014,q3,misc,Surplus,$683.00
+2014,q4,misc,Surplus,$689.00
+2015,q1,misc,Surplus,$681.00
+2015,q2,misc,Surplus,$683.00
+2015,q3,misc,Surplus,$674.00
+2015,q4,misc,Surplus,$689.00
+2016,q1,misc,Surplus,$687.00
+2016,q2,misc,Surplus,$691.00
+2016,q3,misc,Surplus,$700.00
+2016,q4,misc,Surplus,$719.00
+2012,q1,misc,Combined Ratio - US Total P/C Industry,98.2%
+2012,q2,misc,Combined Ratio - US Total P/C Industry,101.6%
+2012,q3,misc,Combined Ratio - US Total P/C Industry,100.8%
+2012,q4,misc,Combined Ratio - US Total P/C Industry,102.3%
+2013,q1,misc,Combined Ratio - US Total P/C Industry,93.6%
+2013,q2,misc,Combined Ratio - US Total P/C Industry,97.1%
+2013,q3,misc,Combined Ratio - US Total P/C Industry,96.8%
+2013,q4,misc,Combined Ratio - US Total P/C Industry,96.4%
+2014,q1,misc,Combined Ratio - US Total P/C Industry,97.5%
+2014,q2,misc,Combined Ratio - US Total P/C Industry,99.4%
+2014,q3,misc,Combined Ratio - US Total P/C Industry,98.6%
+2014,q4,misc,Combined Ratio - US Total P/C Industry,97.2%
+2015,q1,misc,Combined Ratio - US Total P/C Industry,95.7%
+2015,q2,misc,Combined Ratio - US Total P/C Industry,97.6%
+2015,q3,misc,Combined Ratio - US Total P/C Industry,97%
+2015,q4,misc,Combined Ratio - US Total P/C Industry,97.9%
+2016,q1,misc,Combined Ratio - US Total P/C Industry,97.4%
+2016,q2,misc,Combined Ratio - US Total P/C Industry,99.8%
+2016,q3,misc,Combined Ratio - US Total P/C Industry,99.6%
+2016,q4,misc,Combined Ratio - US Total P/C Industry,100.7%

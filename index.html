@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>D3 .•*•* Magic *•*•. JS</title>
+		<!-- <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet"> -->
+		<link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="css/d3-style.css">
+		<script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
+	</head>
+	<body>
+		<header>
+			<h1 class="page-header">D3.js<br>Data Driven Charts</h1>
+			<h5>I took a 12-class course on D3.js. Below is a showcase of my work.</h5>
+
+		</header>
+		<main>
+			<section class="dv-wrap">
+				<h1>Span Chart</h1>
+				<p class="description">Data taken from last quarter's GIMI*</p>
+				<div class="g-chart-container-bar"></div>
+			</section>
+			<section class="dv-wrap">
+				<h1>Line Chart with Interaction</h1>
+				<p class="description">Data taken from last quarter's GIMI*</p>
+				<!-- <div class="btn-wrap"></div> -->
+				<div class="g-chart-container-multi-line"></div>
+			</section>
+			<section class="dv-wrap">
+				<h1>Bar Chart</h1>
+				<p class="description">Data taken from last quarter's GIMI*</p>				
+				<div class="g-chart-container-bar-line"></div>
+			</section>
+			<section class="dv-wrap">
+				<h1>Slopegraph</h1>
+				<p class="description">Data taken from last quarter's GIMI*<br><a href="https://www.nytimes.com/interactive/2015/02/23/business/economy/the-changing-nature-of-middle-class-jobs.html" target="_blank">Here</a> is an example of a NY Times article with a slopegraph.</p>
+				<div class="g-chart-container-slopegraph"></div>
+			</section>
+			<section class="dv-wrap">
+				<h1>Radial Bars</h1>
+				<p class="description">Data taken from last year's Political Risk Map*</p>
+				<div class="g-chart-container-radial-bars"></div>
+			</section>
+			<section class="dv-wrap">
+				<h1>Multiple Pie Charts</h1>
+				<p class="description">Data taken from last quarter's GIMI*</p>
+				<div class="g-chart-container-multi-pie"></div>
+			</section>
+			<section class="dv-wrap">
+				<h1>Bubble Chart</h1>
+				<p class="description">Data taken from NY Times article <a href="https://www.nytimes.com/interactive/2017/04/01/us/politics/how-much-people-in-the-trump-administration-are-worth-financial-disclosure.html" target="_blank">How Much People in the Trump Administration Are Worth</a></p>
+				<div class="g-chart-container-bubble-chart"></div>
+			</section>
+			<section class="dv-wrap">
+				<h1>Choropleth Map</h1>
+				<p class="description">Data taken from NY Times article <a href="http://www.nytimes.com/interactive/2013/01/29/us/where-50000-guns-in-chicago-came-from.html" target="_blank">Where 50,000 Guns Recovered in Chicago Came From</a></p>
+				<div class="g-chart-container-choro-map"></div>
+			</section>
+			<section class="dv-wrap">
+				<h1>Vanity Graph</h1>
+				<p class="description">Coming soon...</p>				
+			</section>			
+		</main>		
+		<footer class="footer"><p><i>* This data is for placeholder use only. The data represented on this page is not valid. The creator of this page makes no warranty, representation, or guaranty as to the content, accuracy, timeliness, or completeness of any of the data provided at this website.</i></p>						</footer>
+  	</body>
+  <!-- <script src="https://d3js.org/d3.v4.min.js"></script>   -->
+  <script src="js/d3v4-473-jetpack.js"></script>
+  <!-- // required for Map -->
+  <script src="https://d3js.org/topojson.v1.min.js"></script>
+  <!-- // -->
+  <script type="text/javascript" src="js/nested-single-spanchart.js"></script>  
+  <script type="text/javascript" src="js/nested-multi-line-cntrl.js"></script>
+  <script type="text/javascript" src="js/nested-single-bar-line.js"></script>    
+  <script type="text/javascript" src="js/nested-single-slope.js"></script>    
+  <script type="text/javascript" src="js/radial-bar.js"></script>  
+  <script type="text/javascript" src="js/nested-multi-pie.js"></script>    
+  <script type="text/javascript" src="js/bubble-chart.js"></script>
+  <script type="text/javascript" src="js/choro-map.js"></script>
+  <script type="text/javascript" src="js/app.js"></script>
+</html>
+

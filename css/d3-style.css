@@ -1,0 +1,259 @@
+* {
+	box-sizing: border-box;
+	padding:0;
+	margin:0;
+	/*font-family: 'Raleway', sans-serif;		*/
+	font-family: 'Josefin Slab', sans-serif;		
+}
+body {
+	background-color:#ececec;
+	padding:0 0 2rem 0;
+}
+.spacer {
+	height:10rem;
+}
+/* ___ Containers ___ */
+
+.page-header {
+	font-size: 8rem;
+	color: #ff4747;    
+}
+header, .dv-wrap, .footer {
+	width:100%;
+	padding:5% 10%;
+	border-bottom: 2px dashed #ffffff;
+	float: left;
+}
+h1 {
+	text-align: center;
+    padding: 10px;    
+    text-decoration: underline;
+}
+h5 {
+	text-align: center;
+    padding: 10px;    
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 3rem;
+}
+.description {
+	font-style: italic;
+	font-size: .75rem;
+	text-align: center;
+	margin-bottom: 2rem;
+	color:#9c9c9c;
+}
+.g-chart-container {	
+}
+.g-chart-container .cov-div {
+    /*background-color: #ffffff;*/
+}
+
+
+/* ___ Typography ___ */
+
+.title {
+    text-align: left;    
+    font-size: 1rem;
+    margin: 0 0 0 40px;
+    color: #ff4747;    
+    font-weight: normal;
+    padding: 4px 10px;
+    background-color: #ffffff;
+    display: block;
+    float: left;
+    box-shadow: 0 2px 4px -3px #000000;
+    border-radius: 4px;
+}
+
+
+text {
+	fill: #45555f;
+	font-size: 1rem;
+}
+.x-axis text {
+	transform: rotate(-30deg);
+	text-anchor:end;
+	font-size: .65rem;
+}
+
+/* ___ UI controls ___ */
+
+.btn-wrap {
+	padding: 2rem 0 2rem 0;
+	text-align: center;
+}
+.userButton {	
+    margin: .25rem;    
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: top;    
+    border: none;
+    border-radius:4px;
+    color: #283840;
+    text-shadow:0 0 2px transparent;
+    background-color:rgba(255,255,255,0.1);
+    font-size: 1.15rem;
+    outline:none;
+    padding: .5rem 1rem;
+    width: 100px;
+    text-transform: uppercase;
+    border-top:1px solid transparent;
+    border-bottom:1px solid transparent;
+    transition:border 200ms,background-color 200ms,color 200ms;    
+}
+.userButton:hover {
+	cursor: pointer;	
+	background-color: rgba(0,0,0,0.15);
+	color:#ffffff;
+	border-top:1px solid rgba(0,0,0,0.25);
+	border-bottom:1px solid rgba(255,255,255,0.75);	
+}
+.userButton.active {
+	cursor: pointer;	
+	background-color: #ff4747;
+	color:#ffffff;
+	border-top:1px solid rgba(0,0,0,0.25);
+	border-bottom:1px solid rgba(255,255,255,0.75);	
+}
+
+/* ___ Axis and Ticks ___ */
+
+.y-axis .tick text {	
+	text-anchor: start;	
+}
+.y-axis .tick line {
+	stroke-width:1;
+	stroke-dasharray: 2;
+	stroke: #45555f;
+	stroke-opacity:.5;
+}
+.y-axis .tick.zilch line {
+	stroke-width:1;
+	stroke-dasharray: 0;
+}
+.x-axis .tick line {
+	stroke-width:1;	
+	stroke: #45555f;
+}
+.domain {
+	display:none;
+}
+
+/* ___ Chart Elements ___ */
+
+.path,
+.cov-path,
+.coverage-path,
+.coverage-slope {
+	fill:none;
+	stroke:#45555f;
+	stroke-width:1;	
+}
+
+.cov-dot,
+.comp-rect,
+.g-dots-slope {
+	stroke-width:1;
+	stroke:#45555f;
+	fill: #ffffff;    
+}
+
+/* pie */
+
+.pie-chart-wrap {	
+	width:48%;
+	margin-right: 4%;
+	margin-bottom: 40px;
+	border-radius: 4px;
+	float: left;
+	/*background-color: #3d4f5a;*/
+}
+.pie-chart-wrap:nth-child(2n+2) {
+	margin-right: 0;
+}
+.title-pie {
+    text-align: center;
+    font-size: 1rem;
+    margin: 0 0 0 40px;
+    color: #ff4747;    
+    font-weight: normal;
+    padding: 4px 10px;
+    background-color: #ffffff;
+    display: block;    
+    box-shadow: 0 2px 4px -3px #000000;
+    border-radius: 4px;     
+}
+.arc path {}
+
+.arc:nth-child(2n+2) path {
+	fill: rgba(255,255,255,0.30);
+	fill:#ff4747;
+}
+
+.inner-label {
+	fill:#ffffff;
+}
+.label {
+	font-size: 1.5rem;
+	text-transform: uppercase;
+	fill:#bbbbbb;
+}
+.pie-label {	
+	font-size: 1.5rem;
+	text-transform: uppercase;
+	fill:#fdfdfd;
+}
+.tooltip {
+  top: -1000px;
+  position: fixed;
+  padding: 10px;
+  background: rgba(255,255,255,.70);
+  border: 1px solid #ffffff;
+  border-radius: 8px;
+  pointer-events: none;
+  font-size: .75rem;
+  box-shadow: 0 2px 5px -2px #000000;
+  color:#45555f;
+  max-width: 15%;
+}
+.tooltip-hidden{
+  opacity: 0;
+  transition: all .3s;
+  transition-delay: .1s;
+}
+
+/* Radial Bar */
+/*"#fee5d9","#fcae91","#fb6a4a","#cb181d"*/
+.path-one {
+	fill:#fee5d9;
+}
+.path-two {
+	fill:#fcae91;
+}
+.path-three {
+	fill:#fb6a4a;
+}
+.path-four {
+	fill:#cb181d;
+}
+
+/* Bubble Chart */
+.name, .dollars {
+	text-anchor: middle;
+	fill:#1b2023;
+}
+
+/* Choropleth Map */
+.county-path {
+	fill:#ececec;
+	stroke-width:1px;
+	stroke:#ececec;
+}
+
+figure {
+	padding-top:2rem;
+}
+img {
+	width:100%;
+}
